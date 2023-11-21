@@ -1,0 +1,28 @@
+class="w3-container"
+
+
+
+<!-- Team Section -->
+<div class="w3-container" style="padding:128px 16px" id="trainer">
+  <h3 class="w3-center">THE TRAINER</h3>
+  <p class="w3-center w3-large">The person who will be accompaning you on your fitness journey</p>
+  <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="/w3images/team2.jpg" alt="Coach Win" style="width:100%">
+        <div class="w3-container">
+          <h3>Randy Winchester</h3>
+          <p class="w3-opacity">CEO & Trainer</p>
+          <p>Randy Winchester spent 11 years as a combat medic in the U.S. Army where he trained to assess the nature & extent of injury, manage chronic diseases, and was designated master trainer for the active duty military that were not physically performing to satisfactory standard. This training led to him finding his passion for the human body and continuing on in a career path devoted to serving others. Randy pursued a B.S. in Exercise Science, minoring in Kinesiology. He continued his studies to become a certified personal trainer and nutrition specialist.  Randy has 3 years of experience in competing in NPC physique shows as well as amateur bodybuilding and is able to train individuals to maintain optimum physical fitness levels through his training programs and nutritional guidance. I also have physical therapy experience and I'm very familiar with corrective exercise. Randy looks forward to helping clients fulfill their goals.</p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+        </div>
+      </div>
+    </div>
+    </div>
+</div>
+
+
+url("C:\Users\justi\OneDrive\Documents\Randy Webpage\Imgs\Randy11.jpg");
+
+
+
